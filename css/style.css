@@ -1,6 +1,6 @@
 @charset "UTF-8";
 .contacto {
-  color: brown;
+  color: #A52A2A;
   font-family: "Roboto", sans-serif;
   font-size: 30px;
 }
@@ -52,6 +52,10 @@
 
 .tituloContac {
   font-family: "Roboto", sans-serif;
+}
+
+ul {
+  list-style-type: none;
 }
 
 /*MOBILE*/
@@ -322,9 +326,6 @@
   .tituloh3 {
     font-size: 30px;
   }
-}
-ul {
-  list-style-type: none;
 }
 
 /*# sourceMappingURL=style.css.map */
