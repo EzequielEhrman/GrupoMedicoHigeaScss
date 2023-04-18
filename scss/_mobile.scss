@@ -1,0 +1,76 @@
+/*MOBILE*/
+@media (max-width:768px){
+    header, main, footer{display: flex;
+ flex-direction: column;
+ align-items: center;}
+ ul{display: flex;padding: 0px;}
+ a{text-decoration: none;
+  font-style: italic;
+ color:brown;
+ padding: 5px;
+ margin: 5px;
+ }
+ 
+ .p20{padding: 20px;}
+ .gridmainProf{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ }
+ .drs{
+     display: flex;
+     flex-direction:column;
+     align-items: center;
+ }
+ .parrafodrs{ display: flex;
+     flex-direction: column;
+     align-items: center;
+     font-size: 15px;
+ }
+ .GridTurnos{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+ }
+ .pos{
+     position: relative;
+     top: -22px;
+     left: 39px;
+ }
+ .GridMainRecetas{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+ }
+ .tituloRec{font-size: 20px;}
+ .selecdrs{
+     font-size: 10px;
+ }
+ .fordrs{display: flex;
+ flex-direction: column;
+ align-items: center;}
+ .GridMainContacto{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+ }
+ .logoynumero{display: inline-block;
+ position: relative;
+ top: 49px;
+ left: -74px;}
+ .logosmails{display: inline-block;
+ position: relative;
+ top: -12px;
+ left: 4px;
+ font-size: 20px;
+ color: brown;}
+ .logoscontactoc{display: inline-block;
+ position: relative;
+ top: -9px;
+ left: 40px;
+ font-size: 20px;
+ color: brown;}
+ .direccionM{font-size: 20px;
+ color: brown;}
+ 
+ }
