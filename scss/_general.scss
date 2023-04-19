@@ -1,3 +1,7 @@
+ul{
+    list-style-type: none;
+}
+a{text-decoration: none;}
 .contacto{
     color: $colorSecundario;
     font-family: 'Roboto', sans-serif;
@@ -32,3 +36,4 @@ text-align: center;
 #Trecetas{font-family: 'Roboto', sans-serif;}
 .tituloContac{ font-family: 'Roboto', sans-serif;}
 .p20{padding:20px;}
+
