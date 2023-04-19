@@ -3,7 +3,7 @@
     header, main, footer{display: flex;
  flex-direction: column;
  align-items: center;}
- ul{display: flex;padding: 0px;}
+ ul{display: flex;padding: 0px; list-style: none;}
  a{text-decoration: none;
   font-style: italic;
  color:brown;
@@ -72,5 +72,6 @@
  color: brown;}
  .direccionM{font-size: 20px;
  color: brown;}
+ .logol{display: flex; flex-direction: column; align-items: center;}
  
  }

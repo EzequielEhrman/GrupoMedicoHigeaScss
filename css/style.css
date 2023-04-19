@@ -64,6 +64,7 @@
   ul {
     display: flex;
     padding: 0px;
+    list-style: none;
   }
   a {
     text-decoration: none;
@@ -148,9 +149,11 @@
     font-size: 20px;
     color: brown;
   }
-  .logol{display: flex;
-flex-direction: column;
-align-items: center;}
+  .logol {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 }
 /*DESKTOP*/
 @media (min-width: 1023px) {
